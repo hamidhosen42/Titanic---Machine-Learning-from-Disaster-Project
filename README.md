@@ -2,13 +2,13 @@
 
 Kaggle site : https://www.kaggle.com/c/titanic/overview/evaluation
 
-# Coding Info:
+## Coding Info:
 
-   Programming Language: Python 3
+   ### Programming Language: Python 3
    
-   Environment: Anaconda Distribution
+   ### Environment: Anaconda Distribution
 
-# Machine Learning Libraries Required : 
+## Machine Learning Libraries Required : 
    1. Numpy
    2. Pandas
    3. Seaborn
@@ -22,7 +22,7 @@ Kaggle site : https://www.kaggle.com/c/titanic/overview/evaluation
    4. Naive Bayes
    5. SVM
 
-# Project main Part :
+## Project main Part :
    1. Defining the problem statement
    2. Collecting the data
    3. Exploratory data analysis
