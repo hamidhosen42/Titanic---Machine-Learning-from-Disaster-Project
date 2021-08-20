@@ -1,5 +1,7 @@
 # Titanic-Machine-Learning-from-Disaster-Project
 
+## Kaggle Model accuracy : 77.272 %
+
 Kaggle site : https://www.kaggle.com/c/titanic/overview/evaluation
 
 ## Coding Info:
