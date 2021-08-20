@@ -9,15 +9,15 @@ Kaggle site : https://www.kaggle.com/c/titanic/overview/evaluation
    Environment: Anaconda Distribution
 
 Machine Learning Libraries Required : 
-    1. Numpy
-    2. Pandas
-    3. Seaborn
-    4. Matplotlib
-    5. sklearn
+   1. Numpy
+   2. Pandas
+   3. Seaborn
+   4. Matplotlib
+   5. sklearn
     
 Algorithm : 
-    1. KNN
-    2. Decision Tree
-    3. Ramdom Forest
-    4. Naive Bayes
-    5. SVM
+   1. KNN
+   2. Decision Tree
+   3. Ramdom Forest
+   4. Naive Bayes
+   5. SVM
